@@ -6,4 +6,5 @@ Each lab includes step-by-step instructions to practice in your own Azure enviro
 Whether you are preparing for the AZ-104 exam or strengthening your cloud skills, this series provides a structured and hands-on learning path.
 
 🎯 Learning Objectives
-a. Deploying and Managing Virtual Machines  :
+a. Deploying and Managing Virtual Machines  
+
